@@ -1,2 +1,1 @@
-# change-weekend-dates-flutter-date-range-picker
-How to change the week end dates in the Flutter date range picker (SfDateRangePicker) 
+**[View document in Syncfusion Flutter Knowledge base](https://www.syncfusion.com/kb/12182/how-to-change-the-week-end-dates-in-the-flutter-date-range-picker-sfdaterangepicker)**
